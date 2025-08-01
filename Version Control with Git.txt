@@ -1,0 +1,2 @@
+1 Automated Version Control:
+Hacer distintos cambios, guardando todos los cambios necesarios. Permite trabajar colaborativamente. Te permite controlar un documente con 'deshacer' (Ctrl + Z) infinitos.
